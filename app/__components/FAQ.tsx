@@ -9,7 +9,10 @@ const FAQ = () => {
 
         <div className="space-y-3">
           {Array.from({ length: 7 }).map((el: unknown, i: number) => (
-            <div className="pl-2 border-b border flex justify-between items-center">
+            <div
+              key={i}
+              className="pl-2 border-b border flex justify-between items-center"
+            >
               What are the pricing plan differences
               <FaAngleDown />
             </div>
