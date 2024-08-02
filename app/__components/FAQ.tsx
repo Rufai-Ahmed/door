@@ -5,7 +5,7 @@ const FAQ = () => {
   return (
     <div className="w-full flex justify-center py-10">
       <div className="w-[90%] md:w-[700px] ">
-        <h1 className="mb-4 text-center font-bold text-[40px]">
+        <h1 className="mb-4 text-center font-bold text-[40px] leading-[1.2]">
           Frequently asked questions
         </h1>
 
@@ -13,7 +13,7 @@ const FAQ = () => {
           {Array.from({ length: 7 }).map((el: unknown, i: number) => (
             <div
               key={i}
-              className="pl-4 border-b flex justify-between items-center"
+              className="pb-3 border-b flex justify-between items-center"
             >
               What are the pricing plan differences
               <FaAngleDown />
