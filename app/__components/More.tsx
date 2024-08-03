@@ -28,7 +28,7 @@ const More = () => {
           <p>
             Plus, visit the Learning Center to view step-by-step tutorials and
             training videos on setting up, running, and growing your store on
-            DoorDash, so you can grow profits and reach more new customers.
+            9ja Kitchen, so you can grow profits and reach more new customers.
           </p>
 
           <button className="px-5 rounded-[30px] py-3 bg-red-600 text-white">

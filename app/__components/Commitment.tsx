@@ -16,7 +16,7 @@ const Commitment = () => {
           We&apos;re committed to strengthening neighbourhoods
         </h1>
         <p className="text-[18px]">
-          Since our founding in 2013, DoorDash Marketplace has generated over
+          Since our founding in 2013, 9ja Kitchen Marketplace has generated over
           $100 billion in sales for merchants.
         </p>
       </div>
@@ -71,7 +71,7 @@ const Commitment = () => {
                         ? "Liquor stores"
                         : i === 3
                         ? "flower shop:"
-                        : "DoorDash shop"}
+                        : "9ja Kitchen shop"}
                     </b>
                   </p>
 
@@ -82,14 +82,14 @@ const Commitment = () => {
                   </p>
 
                   <button className="px-5 rounded-[30px] py-3 bg-red-600 text-white">
-                    DoorDash for{" "}
+                    9ja Kitchen for{" "}
                     {i === 0
                       ? "Restaurants"
                       : i === 1
                       ? "Liquor stores"
                       : i === 3
                       ? "flower shop:"
-                      : "DoorDash shop"}
+                      : "9ja Kitchen shop"}
                   </button>
                 </div>
               </div>

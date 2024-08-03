@@ -16,7 +16,7 @@ const Opportunity = () => {
           We&apos;re committed to strengthening neighbourhoods
         </h1>
         <p className="text-[18px]">
-          Since our founding in 2013, DoorDash Marketplace has generated over
+          Since our founding in 2013, 9ja Kitchen Marketplace has generated over
           $100 billion in sales for merchants.
         </p>
       </div>
@@ -71,7 +71,7 @@ const Opportunity = () => {
                         ? "disaster relief fund"
                         : i === 3
                         ? "DashRoots"
-                        : "DoorDash shop"}
+                        : "9ja Kitchen shop"}
                     </b>
                   </p>
 
@@ -82,14 +82,14 @@ const Opportunity = () => {
                   </p>
 
                   <button className="px-5 rounded-[30px] py-3 bg-red-600 text-white text-[14px] 2xl:text-[16px]">
-                    DoorDash for{" "}
+                    9ja Kitchen for{" "}
                     {i === 0
                       ? "About Michael"
                       : i === 1
                       ? "Apply now"
                       : i === 3
                       ? "Join the network"
-                      : "DoorDash shop"}
+                      : "9ja Kitchen shop"}
                   </button>
                 </div>
               </div>

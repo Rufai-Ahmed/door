@@ -117,7 +117,7 @@ const Footer = () => {
         </div>
 
         <p className="text-[16px] col-span-5 lg:col-span-1 text-center lg:text-start">
-          <b>&copy;2022 DoorDash</b>
+          <b>&copy;2022 9ja Kitchen</b>
         </p>
       </div>
     </footer>

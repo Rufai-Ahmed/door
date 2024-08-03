@@ -25,7 +25,7 @@ const QuizComponent: React.FC = () => {
         },
         {
           id: 2,
-          text: "Get DoorDash solutions",
+          text: "Get 9ja Kitchen solutions",
           icon: "/icons/cost-saving.svg",
         },
       ],

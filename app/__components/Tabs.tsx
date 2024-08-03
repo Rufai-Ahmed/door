@@ -13,8 +13,8 @@ const Tabs = () => {
       <div className="text-center mb-8 space-y-3">
         <h1 className="text-4xl font-bold">Delivering more</h1>
         <p className="text-lg text-gray-600">
-          When you think of DoorDash, you think of delivery — but the DoorDash
-          Merchant Suite delivers many ways to help you grow.
+          When you think of 9ja Kitchen, you think of delivery — but the 9ja
+          Kitchen Merchant Suite delivers many ways to help you grow.
         </p>
       </div>
 

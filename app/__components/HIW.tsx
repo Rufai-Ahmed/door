@@ -26,7 +26,7 @@ const TestimonialPage = () => {
       </div>
       <div className="w-full sm:w-1/2 p-4 flex flex-col justify-center">
         <blockquote className="text-lg text-gray-700 mb-4 font-bold">
-          &quot;The additional revenue that we receive from DoorDash is very
+          &quot;The additional revenue that we receive from 9Ja Kitchen is very
           helpful. Not only does it provide more sales, but the incremental
           margins on those sales are a lot higher because we&apos;ve already
           covered our fixed costs with our regular business.&quot;

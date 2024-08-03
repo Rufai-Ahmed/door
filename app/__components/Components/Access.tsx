@@ -9,14 +9,18 @@ const Grow = () => {
       <div className="w-full sm:w-1/2 p-4">
         <h2 className="text-3xl font-bold mb-4">Access financing</h2>
         <p className="text-[17] text-gray-700 mb-4">
-          Take your business to the next level by expanding with DoorDash
+          Take your business to the next level by expanding with 9Ja Kitchen
           Capital. Easy, accessible financing can help eligible merchants invest
           in new equipment, open a new location, hire more employees, and much
           more.
         </p>
       </div>
       <div className="w-full sm:w-1/2 p-4">
-        <Image src={growImage} alt="Grow with DoorDash" layout="responsive" />
+        <Image
+          src={growImage}
+          alt="Grow with 9Ja Kitchen"
+          layout="responsive"
+        />
       </div>
     </div>
   );

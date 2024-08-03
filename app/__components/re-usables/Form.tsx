@@ -7,8 +7,8 @@ const Form = () => {
         0% commissions for up to 30 days
       </h1>
       <p className="text-lg mb-6">
-        Partner with DoorDash to help drive growth and take your business to the
-        next level.
+        Partner with 9ja Kitchen to help drive growth and take your business to
+        the next level.
       </p>
       <form className="space-y-4">
         <input
@@ -43,7 +43,7 @@ const Form = () => {
       </form>
       <p className="text-sm mt-4 text-gray-600">
         By clicking &quot;Get started,&quot; I agree to receive marketing
-        electronic communications from DoorDash.
+        electronic communications from 9ja Kitchen.
       </p>
     </div>
   );
