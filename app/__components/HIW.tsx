@@ -29,7 +29,7 @@ const TestimonialPage = () => {
           &quot;The additional revenue that we receive from DoorDash is very
           helpful. Not only does it provide more sales, but the incremental
           margins on those sales are a lot higher because we&apos;ve already
-          covered our fixed costs with our regular business.&quo;
+          covered our fixed costs with our regular business.&quot;
         </blockquote>
         <p className="text-gray-700 mb-4">
           Jamie Schrotberger, CEO, Spread Bagelry
