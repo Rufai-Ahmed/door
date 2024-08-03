@@ -8,11 +8,13 @@ import More from "./__components/More";
 import Explore from "./__components/Explore";
 import Opportunity from "./__components/Opportunity";
 import FAQ from "./__components/FAQ";
+import Category from "./__components/Category";
 
 const page = () => {
   return (
     <div className="text-black">
       <Hero />
+      <Category />
       <Company />
       <HIW />
       <Services />

@@ -9,7 +9,7 @@ const Tabs = () => {
   const [activeTab, setActiveTab] = useState("grow");
 
   return (
-    <div className="p-4 mt-52">
+    <div className="p-4 mt-5">
       <div className="text-center mb-8 space-y-3">
         <h1 className="text-4xl font-bold">Delivering more</h1>
         <p className="text-lg text-gray-600">
