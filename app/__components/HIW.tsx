@@ -34,7 +34,7 @@ const TestimonialPage = () => {
         <p className="text-gray-700 mb-4">
           Jamie Schrotberger, CEO, Spread Bagelry
         </p>
-        <button className="w-1/2 bg-red-500 text-white py-2 px-4 rounded-full hover:bg-red-600">
+        <button className="md:w-1/2 bg-red-500 text-white py-2 px-4 rounded-full hover:bg-red-600">
           Explore plans and pricing
         </button>
       </div>
