@@ -11,20 +11,14 @@ import FAQ from "./__components/FAQ";
 import Category from "./__components/Category";
 
 const page = () => {
-  return (
-    <div className="text-black">
-      <Hero />
-      <Category />
-      <Company />
-      <HIW />
-      <Services />
-      <Commitment />
-      <More />
-      <Explore />
-      <Opportunity />
-      <FAQ />
-    </div>
-  );
+	return (
+		<div className="text-black">
+			<Hero />
+			<Category />
+			<Company />
+			<FAQ />
+		</div>
+	);
 };
 
 export default page;
